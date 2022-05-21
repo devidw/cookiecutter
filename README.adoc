@@ -1,6 +1,12 @@
 = Cookiecutter Bookmarklet
+:gh-user-name: your-user-name
+:gh-repo-name: your-repo-name
+:toc:
+:toc-placement!:
 
 Boilerplate template to create new bookmarklets blazingly fast.
+
+toc::[]
 
 
 == Usage
@@ -20,14 +26,14 @@ pip install cookiecutter
 
 For the first time:
 
-[source,zsh]
+[source,zsh,subs=attributes+]
 ----
-cookiecutter https://github.com/devidw/cookiecutter-bookmarklet.git
+cookiecutter https://github.com/{gh-user-name}/{gh-repo-name}.git
 ----
 
 Afterwards:
 
-[source,zsh]
+[source,zsh,subs=attributes+]
 ----
-cookiecutter cookiecutter-bookmarklet
+cookiecutter {gh-repo-name}
 ----
