@@ -1,7 +1,7 @@
 = Cookiecutter {subject}
-:subject: Subject
-:gh-user-name: your-user-name
-:gh-repo-name: your-repo-name
+:subject: subject
+:gh-user-name: devidw
+:gh-repo-name: cookiecutter-{subject}
 :toc:
 :toc-placement!:
 
