@@ -11,30 +11,20 @@ Boilerplate template to scafford new {subjects} blazingly fast.
 toc::[]
 
 
-== Usage
+== Get started
 
 Follow the below steps to create a new project.
 
-
-=== 1. Install https://github.com/cookiecutter/cookiecutter[cookiecutter]
-
-[source,zsh]
-----
-pip install cookiecutter
-----
-
-
-=== 2. Create a new project
-
-For the first time:
-
+. https://github.com/cookiecutter/cookiecutter/blob/master/docs/installation.rst[Install cookiecutter]
+. Create a new project:
+.. For the first time run:
++
 [source,zsh,subs=attributes+]
 ----
 cookiecutter https://github.com/{gh-user-name}/{gh-repo-name}.git
 ----
-
-Afterwards:
-
+.. Afterwards, you are good to go with:
++
 [source,zsh,subs=attributes+]
 ----
 cookiecutter {gh-repo-name}
