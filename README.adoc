@@ -1,12 +1,11 @@
 = Cookiecutter {subject}
 :subject: Subject
-:subjects: Subjects
 :gh-user-name: your-user-name
 :gh-repo-name: your-repo-name
 :toc:
 :toc-placement!:
 
-Boilerplate template to scafford new {subjects} blazingly fast.
+Boilerplate template to scaffold blazingly fast.
 
 toc::[]
 
