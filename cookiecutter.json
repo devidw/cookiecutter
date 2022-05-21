@@ -3,6 +3,5 @@
     "github_username": "devidw",
     "project_name": "",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "project_short_description": "",
-    "version": "1.0.0"
+    "project_short_description": ""
 }
