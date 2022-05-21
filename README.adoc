@@ -1,10 +1,12 @@
-= Cookiecutter Bookmarklet
+= Cookiecutter {subject}
+:subject: Subject
+:subjects: Subjects
 :gh-user-name: your-user-name
 :gh-repo-name: your-repo-name
 :toc:
 :toc-placement!:
 
-Boilerplate template to create new bookmarklets blazingly fast.
+Boilerplate template to scafford new {subjects} blazingly fast.
 
 toc::[]
 
